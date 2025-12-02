@@ -4,9 +4,7 @@ Omáda Téssera — Separated Files
 This set contains the separated version of the single-file HTML you provided.
 
 Files created:
-- `omada.html` — HTML markup, links to CSS/JS
-- `omada.css` — extracted styles
-- `omada.js` — extracted script (catalog, cart, checkout, account simulation)
+- `coba.html` — HTML markup, links to CSS/JS, extracted styles, extracted script (catalog, cart, checkout, account simulation)
 
 How to run:
 1. From the project folder run a simple static server (recommended) and open `coba.html`.
